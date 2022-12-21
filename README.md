@@ -8,8 +8,6 @@ The first model is called Image Colorization Basic Implementation with CNN and w
 
 The second model is called Colorizing B&W Photos with Neural Networks and was built by Emill Warner(https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/).
 
-Performance Evaluations & Results
-
 **Color Detetction Algorithm - 1: Image Colorization Basic Implementation with CNN by Victor Basu**
 
 In the GAN network, the auto-encoder network that is described in this model also serves as a generator.
@@ -31,4 +29,9 @@ It integrates the neural network with a classifier in the "final" form. It emplo
 **Model-2 Output**
 
 ![Example output of the code](https://github.com/nadidebeyza/color-detection-performance-eval/blob/main/Output/model_2/img_0.png "Example output of the code")
+
+
+**Performance Evaluations & Results**
+
+https://github.com/nadidebeyza/color-detection-performance-eval/blob/main/Computer%20Vision%20Project%202.pdf
 
